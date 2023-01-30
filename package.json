@@ -1,0 +1,17 @@
+{
+  "name": "cypress-framework",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress run --spec cypress/e2e/shopping.cy.js"
+  },
+  "keywords": [
+    "Cypress"
+  ],
+  "author": "Pravin Chavan",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^12.4.1"
+  }
+}
